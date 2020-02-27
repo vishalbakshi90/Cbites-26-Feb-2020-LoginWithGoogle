@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122093113120",
+    "firebase_url": "https://cbites-26-feb-2020-loginwithgo.firebaseio.com",
+    "project_id": "cbites-26-feb-2020-loginwithgo",
+    "storage_bucket": "cbites-26-feb-2020-loginwithgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122093113120:android:fa3233495d57e6a88dd145",
+        "android_client_info": {
+          "package_name": "sai.example.cbites_26_feb_2020_loginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122093113120-6obi8r00bogukugaunsr2e69clnkfam2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sai.example.cbites_26_feb_2020_loginwithgoogle",
+            "certificate_hash": "ca9f3df25dc6532fac313afec6c2cd5b73c3ddb6"
+          }
+        },
+        {
+          "client_id": "122093113120-al3iiku6vjaff6b90s0dqc34bbm3tnpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgiT4xZAp0Shotskl32iOaXC7kze5BASg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122093113120-al3iiku6vjaff6b90s0dqc34bbm3tnpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
